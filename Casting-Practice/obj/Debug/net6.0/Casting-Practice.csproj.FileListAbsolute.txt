@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\bin\Debug\net6.0\Casting-Practice.exe
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\bin\Debug\net6.0\Casting-Practice.deps.json
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\bin\Debug\net6.0\Casting-Practice.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\bin\Debug\net6.0\Casting-Practice.dll
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\bin\Debug\net6.0\Casting-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.dll
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\refint\Casting-Practice.dll
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\Casting-Practice.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Casting-Practice\Casting-Practice\obj\Debug\net6.0\ref\Casting-Practice.dll
